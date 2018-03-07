@@ -1,0 +1,27 @@
+C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_game_controller
+-- Compiling architecture behaviour of tb_game_controller
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(153): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(157): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(161): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(166): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(171): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(175): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(184): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd(189): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity game_controller
+-- Compiling architecture behaviour of game_controller
+
+} {} {}}

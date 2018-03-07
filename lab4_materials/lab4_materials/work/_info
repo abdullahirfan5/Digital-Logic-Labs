@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+Egame_controller
+Z0 w1491413404
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Irfan/Desktop/lab4/lab4_materials
+Z5 8C:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd
+Z6 FC:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd
+l0
+L15
+V9Sl^8;=bkUHVWdF[7>mbm0
+!s100 XhG7AWU3W`WSNQ3DWF5la3
+Z7 OV;C;10.4d;61
+32
+Z8 !s110 1491453282
+!i10b 1
+Z9 !s108 1491453282.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd|
+Z11 !s107 C:/Users/Irfan/Desktop/lab4/lab4_materials/game_controller.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Abehaviour
+R1
+R2
+R3
+DEx4 work 15 game_controller 0 22 9Sl^8;=bkUHVWdF[7>mbm0
+l197
+L72
+V4jEHBdTjToLmUF;chAkb<3
+!s100 @8SJcZ[P0@zWU9z`B44LV0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_game_controller
+Z14 w1491438707
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd
+Z16 FC:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd
+l0
+L5
+V]^T<9Tj@BTUbORzCj=8>f3
+!s100 c[V?f6[k<1fd[HZYHG?g`2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd|
+Z18 !s107 C:/Users/Irfan/Desktop/lab4/lab4_materials/tb_game_controller.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 18 tb_game_controller 0 22 ]^T<9Tj@BTUbORzCj=8>f3
+l93
+L8
+VZ4Id5zbaoG??omdPH[?UH2
+!s100 DzN?Am@@KH:m>[EIEFbBe2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
