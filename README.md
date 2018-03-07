@@ -1,2 +1,1 @@
-Labs for the Digital Logic course (ECSE 222).
-Descriptions for labs 3 & 4 contained within the relevent folders
+Labs for the Digital Logic course (ECSE 222) || Lab 3: Programmed a De1-SoC FPGA board to be able to render graphics through a VGA cable for lab 4 || Lab 4: Designed a replica of the classic Space Invaders game on a De1-SoC FPGA board.
