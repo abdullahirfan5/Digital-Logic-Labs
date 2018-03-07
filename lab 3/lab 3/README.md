@@ -1,1 +1,1 @@
-Programmed a De1-SoC FPGA board to serve as a graphics card for lab 4.
+Programmed a De1-SoC FPGA board to be able to render graphics through a VGA cable for lab 4.
